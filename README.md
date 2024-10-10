@@ -1,4 +1,5 @@
 # Forest-Game-Algorithm
 
-Dumping Java video game project.
-Created t teach myself Object Oriented Programming.
+Created to teach myself Object Oriented Programming.
+
+Run by running WorldView in src
